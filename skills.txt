@@ -1,0 +1,7 @@
+# Core skills for the Performance Coach archetype.
+
+google-sheets
+google-doc-report
+telegram-delegate
+find-skills
+prompt-injection-guard
